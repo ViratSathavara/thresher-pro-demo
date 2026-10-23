@@ -2,18 +2,18 @@
 > Multicrop, castor, groundnut and maize threshers made in Visnagar, Mehsana. Factory-direct, spare parts and service, crop-wise advice.
 
 ## Machines
-- [Multicrop Thresher](https://www.example.com/en/products/multicrop-thresher/): One machine for many harvests. The all-rounder for mixed-crop farms.
-- [Castor Thresher](https://www.example.com/en/products/castor-thresher/): Shells castor cleanly so seed stays whole and ready for the oil mill.
-- [Groundnut Thresher](https://www.example.com/en/products/groundnut-thresher/): Strips pods from dried vines quickly and keeps the kernels intact.
-- [Maize Thresher](https://www.example.com/en/products/maize-thresher/): Shells dried cobs in a single pass with an easy feed opening.
+- [Multicrop Thresher](https://thresher-pro-demo.vercel.app/en/products/multicrop-thresher/): One machine for many harvests. The all-rounder for mixed-crop farms.
+- [Castor Thresher](https://thresher-pro-demo.vercel.app/en/products/castor-thresher/): Shells castor cleanly so seed stays whole and ready for the oil mill.
+- [Groundnut Thresher](https://thresher-pro-demo.vercel.app/en/products/groundnut-thresher/): Strips pods from dried vines quickly and keeps the kernels intact.
+- [Maize Thresher](https://thresher-pro-demo.vercel.app/en/products/maize-thresher/): Shells dried cobs in a single pass with an easy feed opening.
 
 ## Pages
-- [Home](https://www.example.com/en/)
-- [Products](https://www.example.com/en/products/)
-- [Crop Guide](https://www.example.com/en/crop-guide/)
-- [Manufacturing](https://www.example.com/en/manufacturing/)
-- [Spares & Service](https://www.example.com/en/spares-and-service/)
-- [Subsidy help](https://www.example.com/en/subsidy-help/)
-- [About us](https://www.example.com/en/about/)
-- [FAQ](https://www.example.com/en/faq/)
-- [Contact](https://www.example.com/en/contact/)
+- [Home](https://thresher-pro-demo.vercel.app/en/)
+- [Products](https://thresher-pro-demo.vercel.app/en/products/)
+- [Crop Guide](https://thresher-pro-demo.vercel.app/en/crop-guide/)
+- [Manufacturing](https://thresher-pro-demo.vercel.app/en/manufacturing/)
+- [Spares & Service](https://thresher-pro-demo.vercel.app/en/spares-and-service/)
+- [Subsidy help](https://thresher-pro-demo.vercel.app/en/subsidy-help/)
+- [About us](https://thresher-pro-demo.vercel.app/en/about/)
+- [FAQ](https://thresher-pro-demo.vercel.app/en/faq/)
+- [Contact](https://thresher-pro-demo.vercel.app/en/contact/)
