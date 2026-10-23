@@ -1,0 +1,4 @@
+assets/img/src/
+__pycache__/
+*.pyc
+.vercel/
